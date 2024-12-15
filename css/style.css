@@ -1,0 +1,26 @@
+#container{
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+    margin-bottom: 5px;
+    width: 100%;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+label{
+    margin-bottom: 20px;
+}
+#container-resultado{
+    margin-top: 50px;
+    border: 1px solid gray ;
+    padding: 50px 100px; 
+    width: 400px;
+    height: 200px;
+}
+
+
+
